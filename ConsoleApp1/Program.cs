@@ -13,7 +13,7 @@ namespace ConsoleApp1
             // ¿ que resultados  se obtienen al realizar las operaciones siguientes? Si har errores en la compilacion, corrijalos y de una explicacion de porque sucede//
 
 
-            int a = 10, b = 3, c = 1, d, e;
+            int a = 20, b = 5, c = 0, d, e;
             float x, y;
 
             x = a / b;
